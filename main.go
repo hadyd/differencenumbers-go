@@ -4,6 +4,11 @@ import (
 	"fmt"
 )
 
+// Soal Latihan Array 1
+
+// 1. Buatlah 2 buah array berukuran 20 dan isilah dengan 20 angka acak
+// 2. Buatlah program yang akan menampilkan semua anggota yang berbeda dari kedua array tersebut
+
 func main() {
 
 	array1 := []int{5, 6, 7, 90, 2, 3, 4, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}
